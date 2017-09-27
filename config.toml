@@ -1,6 +1,6 @@
 #baseurl = "http://127.0.0.1:1313/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 # baseurl = "http://127.0.0.1:8000/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://victorbrca.github.io/victormendonca.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "https://victorbrca.github.io/professional/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Victor Mendonça"
 copyright = "&copy; 2017 Victor Mendonça"
 theme = "academic"
