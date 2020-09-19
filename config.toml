@@ -1,6 +1,6 @@
 #baseurl = "http://127.0.0.1:1313/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 # baseurl = "http://127.0.0.1:8000/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://geekit.ca/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "https://geekit.ca/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Victor Mendonça"
 copyright = "&copy; 2017 Victor Mendonça"
 theme = "academic"
@@ -25,7 +25,7 @@ defaultContentLanguageInSubdir = false
   name = "Victor Mendonça"
   role = "Linux Application Infrastructure"
   organization = "GeekIT Consulting"
-  organization_url = "http://geekit.ca/"
+  organization_url = "https://geekit.ca/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "20160715_172804-01.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "victor@geekit.ca"
