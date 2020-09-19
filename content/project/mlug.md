@@ -31,7 +31,7 @@ caption = "My caption :smile:"
 About MLUG
 ===
 
-https://mississaugalug.github.io/
+https://mississaugalug.ca/
 
 Mississauga LUG is a group of Linux users that meet once a month in a pub in Mississauga to share a beer, exchange information and talk just about anything.
 

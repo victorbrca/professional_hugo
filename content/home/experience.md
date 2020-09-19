@@ -14,6 +14,26 @@ weight = 60
 
 +++
 
+### WMOS Manhattan Support (Consultant)
+_**LCBO, Toronto, ON**_
+_Aug 2019 - Mar 2020_
+
+#### Responsibilities
+- Install SDNs in lower-level and production environments
+- Create shell scripts and wrappers for scheduler (Control-M)
+- Support technical application issues
+- Setup system and app monitoring (SolarWinds)
+- Review and identify design gaps and provide solutions
+
+#### Achievements (chronological order)
+- Created numerous infrastructure documentation (server layouts, monitoring indexes, load balancer rule list, startup script dependency, endpoint configuration)
+- Created multiple startup/shutdown scripts for different scenarios
+- Configured monitoring for many different application components with email and Slack (messaging) alerts
+- Standardized environment loading scripts and automated the deployment to lower level environments with Ansible
+- Created multiple knowledge base articles
+
+* * *
+
 ### WMOS Systems Integration Consultant
 ***Home Hardware Stores Ltd*** -
 *May 2012 - Present*

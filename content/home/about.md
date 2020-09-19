@@ -25,9 +25,14 @@ weight = 5
   year = 2010
 
 [[education.courses]]
-  course = "Learning Puppet DevOps Deployment (Puppet Professional Cert)"
-  institution = "Linux Academy"
-  year = 2015
+  course = "AWS Certified Solutions Architect Associate"
+  institution = "Amazon Web Services"
+  year = 2020
+
+[[education.courses]]
+  course = "Red Hat Certified Specialist in Ansible Automation"
+  institution = "Red Hat"
+  year = 2019
 
 [[education.courses]]
   course = "Puppet Professional Certification"
@@ -49,6 +54,6 @@ weight = 5
 
 Victor is an independent IT contractor with strong Linux background living in Toronto.
 
-His company, GeekIT Consulting Inc., specializes in Linux, and for the past few years, in the design and deployment of Manhattan’s WMOS Open Systems (a supply chain software stack solution by Manhattan Associates). Some of his clients are well known names in the Canadian industry (like Shoppers Drug Mart and Home Hardware).
+His company, GeekIT Consulting Inc., specializes in Linux, and for the past few years, in the design and deployment of Manhattan’s WMOS (Warehouse Management Open Systems), a supply chain software stack solution by Manhattan Associates. Some of his clients are well known names in the Canadian industry (like LCBO, Shoppers Drug Mart and Home Hardware).
 
 Victor is also the founder of the Mississauga Linux User Group, the official LUG (Linux User Group) for Mississauga, ON.
