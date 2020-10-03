@@ -7,7 +7,7 @@ draft = false
 widget = "about"
 
 # Order that this section will appear in.
-weight = 5
+weight = 10
 
 # List your academic interests.
 [interests]
@@ -35,7 +35,7 @@ weight = 5
   year = 2019
 
 [[education.courses]]
-  course = "Puppet Professional Certification"
+  course = "Puppet Certified Professional"
   institution = "Puppet Labs, Inc."
   year = 2015
 

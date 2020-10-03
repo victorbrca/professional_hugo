@@ -160,7 +160,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 4
 
 # [[menu.main]]
 #   name = "Posts"
@@ -180,12 +180,12 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Work Experience"
   url = "#experience"
-  weight = 5
+  weight = 2
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Taxonomies.
 [taxonomies]

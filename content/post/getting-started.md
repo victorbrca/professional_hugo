@@ -6,7 +6,7 @@ tags = ["academic", "hugo"]
 title = "Getting started with the Academic framework for Hugo"
 math = true
 summary = """
-Create a beautifully simple personal or academic website in under 10 minutes. 
+Create a beautifully simple personal or academic website in under 10 minutes.
 """
 
 [header]
