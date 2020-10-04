@@ -14,7 +14,7 @@ weight = 20
 
 +++
 
-Download my Resume [here](./Resume_2020-09.pdf).
+<i class="fas fa-download pr-1 fa-fw"> </i>Download my Resume [here](./Resume_2020-09.pdf).
 
 ### WMOS Manhattan Support (Consultant)
 _**LCBO, Toronto, ON**_

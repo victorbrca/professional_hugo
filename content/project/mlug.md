@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = "My caption :smile:"
+image = "mlug_header.png"
+caption = ""
 
 +++
 

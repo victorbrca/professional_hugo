@@ -400,8 +400,13 @@ article {
 }
 
 .article-banner {
-  width: 100%;
+  /* Removed by Victor on 2020-10-03 */
+  /* width: 100%; */
   height: auto;
+  /* Added by Victor on 2020-10-03 */
+  max-width: 760px;
+  padding: 1rem 20px 0 20px;
+  margin: 0 auto 0 auto;
 }
 
 .article-header-caption {
