@@ -25,7 +25,12 @@ weight = 10
   year = 2010
 
 [[education.courses]]
-  course = "AWS Certified Solutions Architect Associate"
+  course = "Red Hat Certified System Administrator (RHCSA)"
+  institution = "Red Hat"
+  year = 2020
+
+[[education.courses]]
+  course = "AWS Certified Solutions Architect Associate (AWS-CSAA)"
   institution = "Amazon Web Services"
   year = 2020
 

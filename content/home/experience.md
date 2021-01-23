@@ -14,11 +14,18 @@ weight = 20
 
 +++
 
-<i class="fas fa-download pr-1 fa-fw"> </i>Download my Resume [here](./Resume_2020-09.pdf).
+<i class="fas fa-download pr-1 fa-fw"> </i>Download my Resume [here](./Linux System Administrator.pdf).
+
+### Linux Administrator
+_**Fujitsu Americas, Toronto, ON**_ - _Dec 2020 - Present_
+
+- Supported a cluster of WildFly applications running on Azure infrastructure with Active MQ and SQL Server backend
+- Created shell scripts to automate operational tasks
+- Refined update process by adding checks, updated tools and automation components
+- Improved documentation
 
 ### WMOS Manhattan Support (Consultant)
-_**LCBO, Toronto, ON**_
-_Aug 2019 - Mar 2020_
+_**LCBO, Toronto, ON**_ - _Aug 2019 - Mar 2020_
 
 #### Responsibilities
 - Install weekly patches in lower-level and production environments
@@ -37,8 +44,7 @@ _Aug 2019 - Mar 2020_
 * * *
 
 ### WMOS Systems Integration Consultant
-***Home Hardware Stores Ltd*** -
-*May 2012 - Present*
+***Home Hardware Stores Ltd*** - *May 2012 - Present*
 
 #### Responsibilities
 - Responsible for the initial design, install and documentation of the Manhattan logistics application stack (EEM/MIF 2011/2015, WMOS/MIF 2012/2016 and Vocollect 5.0/5.1) on RHEL 5.6 through 7.2
