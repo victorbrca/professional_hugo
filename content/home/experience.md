@@ -19,10 +19,16 @@ weight = 20
 ### Linux Administrator
 _**Fujitsu Americas, Toronto, ON**_ - _Dec 2020 - Present_
 
-- Supported a cluster of WildFly applications running on Azure infrastructure with Active MQ and SQL Server backend
-- Created shell scripts to automate operational tasks
-- Refined update process by adding checks, updated tools and automation components
-- Improved documentation
+- Supported a cluster of 40 WildFly servers (on RHEL 7) running on Azure infrastructure with Active MQ as the message broker and Azure SQL Database as backend
+- Drastically improved time spent on operational tasks (support, investigation and other day-to-day activities) by automating them with Bash and PowerShell scripts
+- Introduced Ansible for automation of OS patching and configuration management improving outage time
+- Developed a Docker environment used to test Ansible deployments with Molecule
+- Fixed WildFly startup issues related to deprecated configuration provided by the vendor, allowing fully automation of nightly shutdown of environments that saved the company thousands of dollars
+- Improved application startup by adding multiple stage checks to the startup scripts
+- Automated the setup of a local Linux environment (WSL) used by other infrastructure team members saving time spent on manual work
+- Supported and applied code changes/fixes to multiple Azure pipelines used for automating database refreshes and Java deployment to all environments
+- Configured and Maintained Grafana dashboards (including alerts) using Azure Application Insights and Logs as data source
+- Improved and authored multiple knowledge base articles on Azure DevOps Wiki
 
 ### WMOS Manhattan Support (Consultant)
 _**LCBO, Toronto, ON**_ - _Aug 2019 - Mar 2020_
