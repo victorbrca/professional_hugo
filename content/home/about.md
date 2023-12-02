@@ -74,6 +74,6 @@ weight = 10
 
 Victor is an independent IT contractor with strong Linux background living in Toronto.
 
-His company, GeekIT Consulting Inc., specializes in Linux, and for the past few years, in the design and deployment of Manhattan’s WMOS (Warehouse Management Open Systems), a supply chain software stack solution by Manhattan Associates. Some of his clients are well known names in the Canadian industry (like LCBO, Shoppers Drug Mart and Home Hardware).
+His company, GeekIT Consulting Inc., specializes in Linux, and for many years, in the design and deployment of Manhattan’s WMOS (Warehouse Management Open Systems), a supply chain software stack solution by Manhattan Associates. Some of his clients are well known names in the Canadian industry, like LCBO, Shoppers Drug Mart, Home Hardware, and Fujitsu Canada.
 
 Victor is also the founder of the Mississauga Linux User Group, the official LUG (Linux User Group) for Mississauga, ON.

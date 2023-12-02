@@ -23,7 +23,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Victor Mendonça"
-  role = "Linux Application Infrastructure"
+  role = "Linux Application and Infrastructure"
   organization = "GeekIT Consulting"
   organization_url = "https://geekit.ca/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
