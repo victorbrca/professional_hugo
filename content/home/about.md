@@ -25,6 +25,16 @@ weight = 10
   year = 2010
 
 [[education.courses]]
+  course = "Red Hat Certified Engineer (RHCE)"
+  institution = "Microsoft"
+  year = 2023
+
+[[education.courses]]
+  course = "Microsoft Certified: Azure Administrator Associate"
+  institution = "Microsoft"
+  year = 2022
+
+[[education.courses]]
   course = "Microsoft Certified: Azure Fundamentals"
   institution = "Microsoft"
   year = 2021
