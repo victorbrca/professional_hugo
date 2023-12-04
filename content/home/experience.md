@@ -17,84 +17,61 @@ weight = 20
 <i class="fas fa-download pr-1 fa-fw"> </i>Download my Resume [here](./Linux System Administrator.pdf).
 
 ### Linux Administrator
-_**Fujitsu Americas, Toronto, ON**_ - _Dec 2020 - Present_
+_**Fujitsu Americas, Toronto, ON**_ - _Dec 2020 - Dec 2023_
 
-- Supported a cluster of 40 WildFly servers (on RHEL 7) running on Azure infrastructure with Active MQ as the message broker and Azure SQL Database as backend
-- Drastically improved time spent on operational tasks (support, investigation and other day-to-day activities) by automating them with Bash and PowerShell scripts
-- Introduced Ansible for automation of OS patching and configuration management improving outage time
-- Developed a Docker environment used to test Ansible deployments with Molecule
-- Fixed WildFly startup issues related to deprecated configuration provided by the vendor, allowing fully automation of nightly shutdown of environments that saved the company thousands of dollars
-- Improved application startup by adding multiple stage checks to the startup scripts
-- Automated the setup of a local Linux environment (WSL) used by other infrastructure team members saving time spent on manual work
-- Supported and applied code changes/fixes to multiple Azure pipelines used for automating database refreshes and Java deployment to all environments
-- Configured and Maintained Grafana dashboards (including alerts) using Azure Application Insights and Logs as data source
-- Improved and authored multiple knowledge base articles on Azure DevOps Wiki
++ Managed a cluster of 40 WildFly servers on RHEL 7 operating system, hosted on Azure infrastructure with Active MQ as the message broker and Azure SQL Database as the backend.
++ Managed and executed daily operational tasks on the Azure cloud platform, encompassing tasks such as resource provisioning, monitoring, troubleshooting, backup and recovery, performance tuning, and patching.
++ Automated operational tasks, support, and investigation procedures by developing Bash and PowerShell scripts, leading to significant improvements in efficiency.
++ Implemented Ansible via Azure DevOps pipeline for OS patching and configuration management, reducing outage time and streamlining processes.
++ Resolved WildFly startup issues allowing the automation of nightly shutdown processes, resulting in substantial cost savings for the company.
++ Enhanced application startup by incorporating multiple stage checks in the startup scripts.
++ Supported and executed code changes/fixes for multiple Azure pipelines used for database refreshes and code deployment across all environments.
++ Provided guidance to colleagues in code development and automation pipeline improvements.
++ Configured and maintained Grafana dashboards that used Azure Application Insights and Logs as the primary data source.
++ Authored multiple knowledge base articles, providing valuable insights and best practices to the team.
+
+---
 
 ### WMOS Manhattan Support (Consultant)
 _**LCBO, Toronto, ON**_ - _Aug 2019 - Mar 2020_
 
-#### Responsibilities
-- Install weekly patches in lower-level and production environments
-- Create shell scripts and wrappers for scheduler (Control-M)
-- Support technical application issues
-- Setup system and app monitoring (SolarWinds)
-- Review and identify design gaps and provide solutions
++ Created a range of essential infrastructure documents, including server layouts, monitoring indexes, load balancer rule lists, startup script dependencies, and endpoint configurations, to ensure smooth operations.
++ Developed several application startup/shutdown scripts for various scenarios, reducing outage windows and enhancing system reliability.
++ Implemented monitoring (using SolarWinds) for different application components, configuring email and Slack alerts for timely and efficient issue resolution.
++ Streamlined environment loading scripts and automated deployment to lower-level environments using Ansible, resulting in increased efficiency and productivity.
++ Authored multiple comprehensive knowledge base articles, previously non-existent, to document best practices and essential information for the team.
 
-#### Achievements (chronological order)
-- Composed numerous infrastructure documents (server layouts, monitoring indexes, load balancer rule list, startup script dependency, endpoint configuration)
-- Scripted multiple application startup/shutdown scripts for different scenarios
-- Configured monitoring for different application components with email and Slack (messaging) alerts
-- Standardized environment loading scripts and automated the deployment to lower level environments with Ansible
-- Authored multiple knowledge base articles
-
-* * *
+---
 
 ### WMOS Systems Integration Consultant
 ***Home Hardware Stores Ltd*** - *May 2012 - Present*
 
-#### Responsibilities
-- Responsible for the initial design, install and documentation of the Manhattan logistics application stack (EEM/MIF 2011/2015, WMOS/MIF 2012/2016 and Vocollect 5.0/5.1) on RHEL 5.6 through 7.2
-- Design load balancing, fail-over and high availability rules for the core warehouse application and it’s components
-- Setup application availability monitoring for all apps via WhatsUp Gold (Ipswitch), JBOSS Operations Network and numerous Bash scripts
-- Provide day to day support during project and warranty phases, followed by second level support for production
-- Build and maintenance of 14+ environments
++ Spearheaded the initial design, installation, and documentation of all LMS apps on JBoss/RHEL (5.6 through 7.2) to ensure smooth and seamless deployment.
++ Designed and implemented load balancing, fail-over, and high availability rules for the core warehouse application and its components, ensuring reliable and consistent operations.
++ Configured monitoring for all project apps using WhatsUp Gold (Ipswitch), JBOSS Operations Network, and numerous Bash scripts, enabling efficient issue resolution.
++ Constructed a unified system environment profile (in Bash) that loaded application variables and aliases based on the server it was being executed on, streamlining operations, and increasing productivity.
++ Introduced an internal forum that served as a knowledge base for the middleware team, facilitating information sharing and improving team communication.
++ Developed a start page with links to documents and applications that became a standard launch page for the IT infrastructure/project team, improving accessibility and productivity.
++ Authored and maintained a server/environment layout document that was later adopted by the whole IT infrastructure/project team, providing essential information for team members.
++ Implemented version control by migrating all middleware code to an on-premises GitLab server, improving code management and versioning.
++ Migrated all cron jobs for the lower-level environment servers to a centralized scheduling solution (Rundeck), improving job management and scheduling.
++ Converted the server setup and application install processes to Ansible, reducing application installation time from 4 days to just 20 minutes, increasing efficiency, and improving productivity.
 
-#### Achievements (chronological order)
-- Constructed a unified system environment profile (Bash) that loaded application variables and aliases based on the server it was being executed on
-- Introduced an internal forum that was utilized as knowledge base by the middleware team
-- Designed a start page with links to documents and applications that became a standard launch page for the IT infrastructure/project team
-- Authored and maintained a server/environment layout document that was later adopted by the IT infrastructure/project team
-- Introduced version control by moving all middleware code to an in-house GitLab server
-- Coded numerous support and admin/maintenance scripts and aliases (over 20000 lines of code) used by the middleware team (like printer setup, SSL configuration, system check aliases, etc...)
-- Developed a sync script in Bash that downloaded code from a GitLab repo and automatic synced it to servers based on server type
-- Configured post Git commit scripts to automatically deploy code to web servers
-- Moved all cron jobs for the lower-level environment servers to a centralized scheduling solution (Rundeck)
-- Converted the server setup and application install processes to Ansible, cutting down the install time from 4 days to 20 mins
-- Converted the sync script to Ansible
-
-* * *
+---
 
 ### WMS System Admin
 ***Shoppers Drug Mart*** -
 *June 2010 - May 2012*
 
-#### Tech Lead
++ Provided comprehensive support for the Warehouse Management System (WMS) software, including Manhattan’s WM, LM, SCI, and Vocollect, as well as RF scanners, voice picking devices, and printers.
++ Administered a diverse range of environments, consisting of 15 AIX servers, 12 HP-UX servers, and 35 Windows servers.
++ Conducted weekly patches for applications on all environments, including Windows, Unix, and databases.
++ Implemented an Oracle sqlplus wrapper to minimize user errors during vendor patches, which was later adopted as the standard software delivery method for the project.
++ Designed and executed the installation and configuration of the business integration application on new environments, complete with build books and support documentation.
++ Created a solution to monitor the application, transactions, and database through custom Korn, pl/sql scripts, and HP OVO.
++ Designed the logic for a script that managed load balancing, failover, and disaster recovery.
 
-- Provided support for all (WMS) Warehouse Management System software (Manhattan’s WM, LM, SCI and Vocollect) including RF scanning devices, voice picking devices and printers
-- Administered 4 environments (DEV, SIT, TRN, UAT, PROD), consisting of 15 AIX servers, 12 HP-UX servers and 35 Windows servers
-- Applied weekly patches (Windows, Unix and DB) to applications on all environments
-- Introduced a Oracle sqlplus wrapper to minimize user errors during vendor patches. The script was sent upstream to the vendor and became standard for software delivery for the project
-- Came up with the logic and method of comparing binaries and script versions between two systems
-- Designed a solution for a system limitation on the amount of incoming SSH connections via script logic
-
-#### Jr Technical Designer
-
-- Working as junior design/engineer for Manhattans business integration application (EIS), oversaw the design, install and configuration of the application on new environments, including build books and support documentation
-- Designed a solution for monitoring application, application transactions and database via custom korn and pl/sql scripts, and HP OVO
-- Designed the logic behind a script that handled load balancing, fail over and disaster recovery
-- Involved in the design and implementation of the Warehouse and Labor Management systems (WM/LM app and web), the BI application (SCI) and the voice picking and devices stack (Vocollect) on all environments
-
-* * *
+---
 
 ### Product Support Specialist
 ***Accubid Systems*** -
@@ -102,16 +79,16 @@ _**LCBO, Toronto, ON**_ - _Aug 2019 - Mar 2020_
 
 #### Responsibilities
 
-- Provided product support on the leader software developer for professional electrical, mechanical and structural cabling estimates
-- Support included: installation, software removal, troubleshooting and extensive knowledge of the product
-- Dealt with MS-SQL installations
++ Provided product support on the leader software developer for professional electrical, mechanical and structural cabling estimates
++ Support included: installation, software removal, troubleshooting and extensive knowledge of the product
++ Dealt with MS-SQL installations
 
 #### Achievements
 
-- Decreased the amount of calls by creating various documentations with instructions for the most common problems. These allowed clients to resolve common issues without having to contact support
-- Reduced time when migrating clients by creating a package that allowed the conversion of files when skipping one or more versions. Before the package existed it was necessary to install all versions of the program to sequentially convert the files
++ Decreased the amount of calls by creating various documentations with instructions for the most common problems. These allowed clients to resolve common issues without having to contact support
++ Reduced time when migrating clients by creating a package that allowed the conversion of files when skipping one or more versions. Before the package existed it was necessary to install all versions of the program to sequentially convert the files
 
-* * *
+---
 
 ### 3Com - Level 2 Tech Support
 ***Siemens Canada*** -

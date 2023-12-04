@@ -60,14 +60,19 @@ weight = 10
   year = 2015
 
 [[education.courses]]
+  course = "CompTIA IT Operations Specialist"
+  institution = "CompTIA"
+  year = 2007
+
+[[education.courses]]
   course = "CompTIA Network+"
   institution = "CompTIA"
-  year = 2004
+  year = 2007
 
 [[education.courses]]
   course = "CompTIA A+"
   institution = "CompTIA"
-  year = 2004
+  year = 2006
 +++
 
 # Biography
@@ -77,3 +82,5 @@ Victor is an independent IT contractor with strong Linux background living in To
 His company, GeekIT Consulting Inc., specializes in Linux, and for many years, in the design and deployment of Manhattan’s WMOS (Warehouse Management Open Systems), a supply chain software stack solution by Manhattan Associates. Some of his clients are well known names in the Canadian industry, like LCBO, Shoppers Drug Mart, Home Hardware, and Fujitsu Canada.
 
 Victor is also the founder of the Mississauga Linux User Group, the official LUG (Linux User Group) for Mississauga, ON.
+
+![](/img/certs.png)
