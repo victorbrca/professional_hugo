@@ -51,11 +51,6 @@
 
       gtag('config', '{{ . }}');
     </script>
-    {{ if not .Site.Params.disable_sri }}
-    {{ printf "<script async src=\"https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" .Site.Data.sri.js.autotrack | safeHTML }}
-    {{ else }}
-    <script async src="//cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js"></script>
-    {{ end }}
   {{ end }}
 
   <link rel="alternate" href="{{ .RSSLink | default .Site.RSSLink  }}" type="application/rss+xml" title="{{ .Site.Title }}">
