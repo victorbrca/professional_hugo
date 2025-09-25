@@ -77,10 +77,6 @@ weight = 10
 
 # Biography
 
-Victor is an independent IT contractor with strong Linux background living in Toronto.
-
-His company, GeekIT Consulting Inc., specializes in Linux, and for many years, in the design and deployment of Manhattan’s WMOS (Warehouse Management Open Systems), a supply chain software stack solution by Manhattan Associates. Some of his clients are well known names in the Canadian industry, like LCBO, Shoppers Drug Mart, Home Hardware, and Fujitsu Canada.
-
-Victor is also the founder of the Mississauga Linux User Group, the official LUG (Linux User Group) for Mississauga, ON.
+Linux Systems Administrator with 15+ years of experience managing and optimizing RHEL and other Linux environments in enterprise settings. Skilled in automation with Ansible and Red Hat Satellite, middleware support (JBoss/WildFly), and monitoring with Grafana, Splunk, and Azure Monitor. Recognized for exceptional attention to detail, producing clear documentation and runbooks that improve consistency and onboarding. Experienced in hybrid infrastructures with Azure and AWS, with a strong passion for automation and process improvement.
 
 ![](/img/certs.png)
