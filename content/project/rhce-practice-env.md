@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2023-11-30"
+date = "2023-12-12"
 
 # Project title.
 title = "RHCE v8 Practice Enviroment"
@@ -13,23 +13,20 @@ image_preview = "logo_mid.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["linux"]
+tags = ["linux", "rhel", "rhce"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://rhce-practice-exam.org/"
 
 # Does the project detail page use math formatting?
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "Welcome-page.jpg"
+image = "rhce8-practice-env-0.jpg"
 caption = ""
 
 +++
-
-
-[victorbrca/rhce8-practice-env](https://github.com/victorbrca/rhce8-practice-env)
 
 A repo that can be used to create a RHEL 8 lab environment, using Vagrant, VirtualBox, and Ansible. This environment can be used to practice for the RHCE v8 exam.
 

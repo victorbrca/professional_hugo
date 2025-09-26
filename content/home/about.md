@@ -75,7 +75,7 @@ weight = 10
   year = 2006
 +++
 
-# Biography
+# Professional Summary
 
 Linux Systems Administrator with 15+ years of experience managing and optimizing RHEL and other Linux environments in enterprise settings. Skilled in automation with Ansible and Red Hat Satellite, middleware support (JBoss/WildFly), and monitoring with Grafana, Splunk, and Azure Monitor. Recognized for exceptional attention to detail, producing clear documentation and runbooks that improve consistency and onboarding. Experienced in hybrid infrastructures with Azure and AWS, with a strong passion for automation and process improvement.
 
